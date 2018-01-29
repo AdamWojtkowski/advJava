@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class CatTest extends junit.framework.TestCase  {
 
-
+//This is a test
     @Test
     public void testSomething() {
 
