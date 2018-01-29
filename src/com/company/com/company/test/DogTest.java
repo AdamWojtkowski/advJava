@@ -4,6 +4,7 @@ import org.junit.Test;
 /**
  * @author Adam Wojtkowksi
  * @version 1.0
+ * 
  */
 public class DogTest extends junit.framework.TestCase {
     @Test
