@@ -23,6 +23,6 @@ public class Cat extends Pet implements Talkable {
 
     @Override
     public String toString() {
-        return "Cat: " + "name=" + name + " mousesKilled=" + mousesKilled;
+        return "Cat: " + "name = " + name + " mousesKilled = " + mousesKilled;
     }
 }
